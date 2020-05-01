@@ -1,0 +1,4 @@
+Bundle-Name: demo-walkthrough-web
+Bundle-SymbolicName: demo.walkthrough.web
+Bundle-Version: 1.0.0
+Export-Package: demo.walkthrough.web.constants
