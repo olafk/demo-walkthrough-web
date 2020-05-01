@@ -1,7 +1,16 @@
 # Demo Walkthrough
-## an animated and narrated demo through Liferay DXP 7.2's UI
 
-How to build/use this plugin?
+an animated and narrated demo through Liferay DXP 7.2's UI.
+
+This plugin provides an audio narration for an individual page, combined with
+remote-controlled (e.g. scripted) operation on the page, and highlighting areas
+of interest.
+
+It's thought to be a suggestion for documenting unattended demo systems for customers
+who have no experience in using the UI, and would be overwhealmed when just looking at
+the options.
+
+## Build Instructions
 
 * clone the directory into a Liferay Workspace's `modules` folder
 * This plugin has been tested with `liferay.workspace.target.platform.version = 7.2.10.1`
